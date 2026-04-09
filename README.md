@@ -1,4 +1,4 @@
-# [Python] Cohort Analysis: Customer Retention, Segment by Quantity and Revenue
+#  Cohort Analysis
 
 ## I. Introduction
 
