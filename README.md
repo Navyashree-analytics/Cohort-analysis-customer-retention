@@ -66,15 +66,28 @@ The project will follow these steps:
 ![image](https://github.com/mytrannn22/Cohort-Analysis/assets/140190425/0ef4b796-e34a-4c7a-bcbd-7fad8a8abe54)
 
 
-## III. Insights 
-
-- **Number of Customers**: Company has long lasting customers from 1978. The number of newly acquired customer has been increasing sustainably over the years.
-- **Retention Rate**: Though the number of customers in each cohort differs, it is notable that all cohorts roughly share the same trends and patterns in retention rates: highest peak of around 33% in Dec 2020 (holiday shopping season - Christmas and New Year) and second peak of approx. 22% in Apr 2021 (pre-summer holiday, warmer weather, sales events in April such as the annual Amazon Prime Day and the Memorial Day sales). Retention rates are lowest in Feb (after holiday season) and Aug-Oct (cooler weather in autumn, saving money for the winter holidays, fewer major sales events, etc.).
-- **Average order items**: Despite the fact that retention rate is highest on Dec 2020, this month also witnesses the lowest average items per order in all cohorts. Customers acquired from 1983-1988 ordered nearly 6 items in each order taken in Feb 2021. The average items per order seems higher in Mar and Jul for almost all cohorts.
-- **Order Revenue**: Orders placed by the 1988-1993 cohort have a relatively higher value than those placed by other cohorts. In Aug 2021, the order value for this cohort was an outstanding more than $1,000 per order. The oldest cohort, 1978-1983, also has a consistently high order value. In general, all cohorts have similar order value patterns over the months, with increases in Dec, Mar, and Apr, and decreases to the lowest levels in Jan and Feb. 
-
+## III. Key Insights 
+Key Insights
+Customer Growth: The number of newly acquired customers has steadily increased over time
+Retention Trends: All cohorts show similar patterns
+Peak retention (~33%) in December (holiday season)
+Secondary peak (~22%) in April (sales events)
+Lowest retention in February and late summer/early autumn
+Order Quantity:
+Lower items per order during peak holiday season
+Higher purchase volumes in March and July
+Revenue Patterns:
+Older cohorts tend to generate higher order values
+Revenue peaks during December, March, and April
+Lowest revenue observed in January and February
+- 
 ## IV. Recommendations
 
-- Newly acquired customers have been increasing steadily and have brought in a significant amount of orders and revenue. However, when converted to percentages, almost all cohorts, both old and new customers, have very similar trends and patterns in retention rate and revenue. In some cases, old customers even have higher average order values and sales amounts per order than new customers. 
-- Apart from acquisition new customers, it's important to maintain and leverage the business relationship with old, long-lasting customers. This brings a lot of benefits: less marketing costs, better feedback, positive word-of-mouth marketing, sustainable revenue, less churn, etc. 
-- It's necessary to investigate more about other factors such as Customer Acquisition Cost. Instead of spending expensive amount of money to acquire a new customer, it's worth to care old customer better: personalize customer experience, stay in touch, offer loyalty programs, offer incentives, etc.
+While acquiring new customers is important, retaining existing customers is more cost-effective
+Long-term customers contribute significantly to revenue and should be prioritized
+Suggested strategies:
+Personalized customer experiences
+Loyalty programs and incentives
+Regular engagement and communication
+
+Additionally, further analysis on Customer Acquisition Cost (CAC) can help optimize marketing investments.
