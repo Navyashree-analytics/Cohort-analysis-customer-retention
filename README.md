@@ -1,25 +1,41 @@
-# [Python] Cohort Analysis: Customer Retention, Segment by Quantity and Revenue
+# Cohort Analysis: Customer Retention, Segment by Quantity and Revenue
 
-## I. Introduction
+1. Introduction
+What is Cohort Analysis?
 
-### 1. About Cohort Analysis
+Cohort analysis is an analytical technique that groups users based on shared characteristics and analyzes their behavior over time. It helps in identifying patterns in the customer lifecycle, improving retention, and understanding how different groups of users interact with a product or service.
 
-**What is cohort analysis?**
+Businesses use cohort analysis to track customer trends over time and design targeted strategies for different user groups.
 
-**Cohort analysis** is an analytical technique that categorizes and divides data into groups (**cohorts**), with common characteristics prior to analysis. This technique helps us isolate, analyze, and detect patterns in the lifecycle of a user, to optimize customer retention, and to better understand user behavior in a particular cohort.
+Types of Cohorts
+Time-based cohorts: Group customers based on when they first interacted with the business
+Segment-based cohorts: Group customers based on product type or service level
+Size-based cohorts: Group customers based on size or value
 
-Businesses use **cohort analysis** to understand the trends and patterns of customers over time and to tailor product and service offers to the identified cohorts.
+2. Business Objective
 
-**Three major types of Cohort**
-- **Time-based**: groups customers based on the time they started using a company’s products or services.
-- **Segment-based**: groups customers by the type of product or level of service they signed up for.
-- **Size-based**: groups customers based on their size.
+The goal of this project is to perform time-based cohort analysis using Python to evaluate:
+
+Customer retention
+Order quantity trends
+Revenue patterns
+
+This helps stakeholders compare different customer cohorts and optimize product, marketing, and retention strategies.
+
+3. Dataset Description
+
+The dataset is sourced from Kaggle and contains 286,392 records with 36 columns, representing online sales transactions across various product categories in the United States from October 2020 to September 2021.
+
+Key Features Used:
+customer_id – Unique identifier for customers
+order_id – Transaction ID
+order_date – Purchase date
+total_sales – Revenue per order
+customer_since – Customer acquisition date
+
+For this analysis, only relevant columns were selected to focus on cohort-based insights.
 
 
-### 2. Business Questions
-Using Python to create time-based cohorts analysis that allows stakeholders to assess and compare retention, order items quantity and order revenue from different cohorts of customer to optimize and tailor products and services offers to these specific cohorts.
-
-### 3. About the Dataset
 
 The dataset is from Kaggle ([Link](https://www.kaggle.com/datasets/ytgangster/online-sales-in-usa)), consists of 36 columns and 286392 entries, records online sales data of different products, several merchandise and electronic in different states in USA from October 2020 to September 2021. 
 
